@@ -6,7 +6,9 @@ Manual testing is a software testing process in which test cases are executed ma
 <p>Non functional testing is a type of software testing that verifies non functional aspects of the product, such as performance, stability, and usability.</p>
 <h3>System Testing</h3>
 <h3>Smoke Testing</h3>
+<p>performed at the beginning of the development process to ensure that the most critical functions of a software application are working correctly. </p>
 <h3>SanityTesting</h3>
+<p>Sanity testing is performed to check if new module additions to an existing software build are working as expected and can pass to the next level of testing.</p>
 <h3>Regression Testing</h3>
 <h3>GUI Testing</h3>
 <p>(Performed these tests on academic projects)</p>
